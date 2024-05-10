@@ -1,3 +1,3 @@
 # DL Comments
 
-This repo contains my published thoughts on various topics in language modelling and reinforcement learning.
+This repo contains a few of my thoughts on various topics in language modelling and reinforcement learning.
