@@ -1,4 +1,6 @@
+**/accenture_on_llms.ipynb
 **/ai_coding_best_practices.ipynb
+**/consultants_llm_opportunity.ipynb
 **/crossing_the_enterprise_gap.ipynb
 **/direct_preference_evaluation.ipynb
 **/final_hidden_state.ipynb
@@ -7,3 +9,5 @@
 **/quantization.ipynb
 **/teaching_llm_investing.ipynb
 **/the_transformer.ipynb
+
+**/.gitignore
